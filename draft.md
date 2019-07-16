@@ -97,7 +97,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-
++ [Software Research Scientist at rOpenSci (NYC/Berkeley/remote)](https://ropensci.org/careers/) - See our [blog post](https://ropensci.org/blog/2019/07/15/expanding-software-review/) for more information about this project to improve R statistical methods testing and peer review.
 
 
 ###  Call for Participation
