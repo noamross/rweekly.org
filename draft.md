@@ -40,6 +40,7 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+
 **CRAN**
 
 
@@ -50,6 +51,7 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 **GitHub or Bitbucket**
 
++   [spatialRF: fit spatial models with Random Forest](https://blasbenito.github.io/spatialRF/)
 
 
 ### Updated Packages
