@@ -104,6 +104,8 @@ Events in 3 Months:
 
 ### Jobs
 
+ + [Research Data Scientist, EcoHealth Alliance](https://www.ecohealthalliance.org/career/research-data-scientist-2023)
+
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ###  rtistry
