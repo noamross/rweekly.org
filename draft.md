@@ -48,7 +48,7 @@ some posts we overlooked over the end of year break.
 
 ### R in Organizations
 
-
++ From rOpenSci: [Open Science and Open Source only with Diversity, Equity, Inclusion, and Accessibility](https://ropensci.org/blog/2025/02/05/no-science-without-deia/)
 
 ### R in Academia
 
